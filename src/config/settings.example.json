@@ -1,0 +1,10 @@
+{
+  "user_agent": "Mozilla/5.0 (compatible; YelpScraper/1.0; +https://bitbash.dev)",
+  "base_url": "https://www.yelp.com",
+  "search_path": "/search",
+  "max_results_per_query": 25,
+  "max_detail_requests_per_query": 5,
+  "timeout_seconds": 15,
+  "output_dir": "data",
+  "output_file": "yelp_results.json"
+}
