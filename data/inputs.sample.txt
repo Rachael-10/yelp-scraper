@@ -1,0 +1,11 @@
+# Each non-empty line is either:
+# - a Yelp search query (e.g., 'pizza' or 'coffee in San Francisco, CA')
+# - or a full Yelp business URL (e.g., 'https://www.yelp.com/biz/example-business-san-francisco')
+#
+# You can edit this file to include your own queries or URLs.
+# Example search queries:
+pizza in San Francisco, CA
+coffee shops in New York, NY
+
+# Example direct Yelp business URL:
+# https://www.yelp.com/biz/garys-steakhouse-san-francisco
